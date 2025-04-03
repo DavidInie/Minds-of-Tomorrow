@@ -27,7 +27,6 @@ body {
 
 .contenido{
     color: black;
-    font-family: "Nunito";
 }
 
 #h1our, #pem { 
@@ -52,9 +51,7 @@ body {
 .contenidoverde{
     background-color: rgb(96, 237, 190);
     font-family: "Nunito";
-    color: black;
-   
-    
+    color: black;  
 }
 
 #inno{
@@ -68,4 +65,47 @@ body {
     margin-top: 30px;
     text-align: center;
     padding: 20px;
+}
+
+.contenidounlock{
+    color: black;
+}
+
+#h1un, #pour { 
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    margin: 10%; 
+}
+
+#pour{
+    color: rgb(56, 56, 56);
+    font-size: 35px;
+}
+
+#imgsection3{
+    width: 90%;
+    margin: 20%; 
+    padding-right: 45px;
+
+}
+
+.contenidoverde{
+    padding: 0;
+    margin: 0;
+}
+
+#imgimagenes{
+    margin: 0;
+    padding: 0;
+}
+
+.contenidoazul{
+    background-color: rgb(50, 152, 255);
+}
+
+#h1azul{
+    font-size: 85px;
+    text-align: center;
+    margin-top: 40px;
 }
