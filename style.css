@@ -1,0 +1,47 @@
+body {
+    font-family: "Nunito";
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  .header {
+    background-image: url(./img/header.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    flex-direction: column; /* Esto coloca los elementos en columna */
+    justify-content: center;
+    align-items: center;
+}
+
+#h1welcome{
+    font-size: 120px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
+
+.contenido{
+    color: black;
+    font-family: "Nunito";
+}
+
+#h2our{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
+
+#pem{
+    font-size:40px
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
+
+#imgsection1{
+
+}
