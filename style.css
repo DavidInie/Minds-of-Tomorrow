@@ -6,7 +6,7 @@ body {
     padding: 0;
   }
 
-  .header {
+.header {
     background-image: url(./img/header.jpg);
     background-size: cover;
     background-position: center;
@@ -21,8 +21,8 @@ body {
 #h1welcome{
     font-size: 120px;
     color: rgb(0, 0, 0);
-    text-align: center;
-    
+    text-align: center; 
+   
 }
 
 .contenido{
@@ -30,18 +30,42 @@ body {
     font-family: "Nunito";
 }
 
-#h2our{
-    font-size: 50px;
+#h1our, #pem { 
+    font-size: 45px;
     color: rgb(0, 0, 0);
     text-align: justify;
+    margin: 10%; 
 }
 
 #pem{
-    font-size:40px
-    color: rgb(0, 0, 0);
-    text-align: justify;
+    color: rgb(56, 56, 56);
+    font-size: 40px;
 }
 
 #imgsection1{
+    width: 70%;
+    margin: 9%; 
 
+}
+
+
+.contenidoverde{
+    background-color: rgb(96, 237, 190);
+    font-family: "Nunito";
+    color: black;
+   
+    
+}
+
+#inno{
+    font-size: 70px;
+    margin-top: 50px;                                                                                                                                
+
+}
+
+#imgverde{
+    width: 20%;
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px;
 }
